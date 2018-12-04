@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arcsinus</string>
+    <string name="api">Тестовое приложение по работе с API для компании Arcsinus</string>
+    <string name="about">О приложении</string>
+    <string name="poisk">Поиск персонажей</string>
+    <string name="hint">Введите имя</string>
+    <string name="ab_app">О приложении</string>
+    <string name="force">Да пребудет с тобой сила</string>
+    <string name="_4_12">Сборка 4.12</string>
+</resources>
